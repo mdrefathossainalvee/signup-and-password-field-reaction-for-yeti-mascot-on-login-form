@@ -1,1 +1,0 @@
-# signup-and-password-field-reaction-for-yeti-mascot-on-login-form
